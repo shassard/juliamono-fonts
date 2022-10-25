@@ -1,4 +1,4 @@
-Version:        0.045
+Version:        0.046
 Release:        1%{?dist}
 URL:            https://juliamono.netlify.app/
 
@@ -39,5 +39,8 @@ Source10:       63-%{fontpkgname}.conf
 
 
 %changelog
+* Tue Oct 25 2022 Stephen Hassard <steve@hassard.net> - 0.046-1
+- Bump to 0.046
+
 * Mon Jul 11 2022 Stephen Hassard <steve@hassard.net> - 0.045-1
 - Initial packaging
